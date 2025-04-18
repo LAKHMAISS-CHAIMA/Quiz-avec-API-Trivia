@@ -117,4 +117,4 @@ const QuizQuestion = () => {
   );
 };
 
-export default QuizQuestion;
+export default QuizQuestion; 
